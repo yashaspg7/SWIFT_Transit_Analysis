@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+.uv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS / Editor noise
+.DS_Store
+.vscode/
+
+# Output files 
+output/*.csv
